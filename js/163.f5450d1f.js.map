@@ -1,0 +1,1 @@
+{"version":3,"file":"js/163.f5450d1f.js","mappings":"mJACO,MAAMA,EAAe,0C","sources":["webpack://angerpulse/./src/config/api.js"],"sourcesContent":["//export const API_BASE_URL = \"https://localhost:5001\"\r\nexport const API_BASE_URL = \"https://marcoracm-002-site1.mtempurl.com\""],"names":["API_BASE_URL"],"sourceRoot":""}
